@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_tts-3.8.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/geolocator_android-4.4.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/location-5.0.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_android-11.1.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/speech_to_text-6.6.0/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.twelve_ampere.request_permission-merged_res-9:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "/Users/hinvi/.gradle/caches/transforms-3/fb4346613e9e583dc5eca39ee7bb1aaf/transformed/core-1.6.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.twelve_ampere.request_permission-mergeReleaseResources-7:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "/Users/hinvi/.gradle/caches/transforms-3/fb4346613e9e583dc5eca39ee7bb1aaf/transformed/core-1.6.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

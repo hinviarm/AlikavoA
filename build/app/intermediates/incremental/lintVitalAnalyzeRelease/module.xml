@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/hinvi/StudioProjects/alikavoa1/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.0.2"
+    buildFolder="/Users/hinvi/StudioProjects/alikavoa1/build/app"
+    bootClassPath="/Users/hinvi/Library/Android/sdk/platforms/android-34/android.jar:/Users/hinvi/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

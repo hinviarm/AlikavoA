@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "device.policy.manager.device_policy_manager-merged_res-15:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/hinvi/.gradle/caches/transforms-3/428d9b1d04a9d4b258299557b70c4543/transformed/appcompat-1.3.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "device.policy.manager.device_policy_manager-mergeReleaseResources-13:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/hinvi/.gradle/caches/transforms-3/428d9b1d04a9d4b258299557b70c4543/transformed/appcompat-1.3.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

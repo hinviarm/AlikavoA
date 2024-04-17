@@ -1,0 +1,13 @@
+com.tundralabs.fluttertts.flutter_tts-jetified-window-1.0.0-beta04-0 /Users/hinvi/.gradle/caches/transforms-3/09fdd70c654231fd35f247d7ce1a6c85/transformed/jetified-window-1.0.0-beta04/res
+com.tundralabs.fluttertts.flutter_tts-jetified-core-ktx-1.8.0-1 /Users/hinvi/.gradle/caches/transforms-3/29eecf35563820c0d4c5ec8ac5794e9f/transformed/jetified-core-ktx-1.8.0/res
+com.tundralabs.fluttertts.flutter_tts-jetified-annotation-experimental-1.1.0-2 /Users/hinvi/.gradle/caches/transforms-3/763a16e33bab02a52209ec8e710b80c9/transformed/jetified-annotation-experimental-1.1.0/res
+com.tundralabs.fluttertts.flutter_tts-core-1.8.0-3 /Users/hinvi/.gradle/caches/transforms-3/94a3c09d650379e06a47f1fc49364d68/transformed/core-1.8.0/res
+com.tundralabs.fluttertts.flutter_tts-lifecycle-runtime-2.3.1-4 /Users/hinvi/.gradle/caches/transforms-3/be5de7f35774139dffe410ca0bfe47de/transformed/lifecycle-runtime-2.3.1/res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-java-1.0.0-beta04-5 /Users/hinvi/.gradle/caches/transforms-3/f1bf19f202637e353bb46395c2d8738b/transformed/jetified-window-java-1.0.0-beta04/res
+com.tundralabs.fluttertts.flutter_tts-main-6 /Users/hinvi/.pub-cache/hosted/pub.dev/flutter_tts-3.8.5/android/src/main/res
+com.tundralabs.fluttertts.flutter_tts-release-7 /Users/hinvi/.pub-cache/hosted/pub.dev/flutter_tts-3.8.5/android/src/release/res
+com.tundralabs.fluttertts.flutter_tts-pngs-8 /Users/hinvi/StudioProjects/alikavoa1/build/flutter_tts/generated/res/pngs/release
+com.tundralabs.fluttertts.flutter_tts-resValues-9 /Users/hinvi/StudioProjects/alikavoa1/build/flutter_tts/generated/res/resValues/release
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-10 /Users/hinvi/StudioProjects/alikavoa1/build/flutter_tts/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-11 /Users/hinvi/StudioProjects/alikavoa1/build/flutter_tts/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tundralabs.fluttertts.flutter_tts-merged_res-12 /Users/hinvi/StudioProjects/alikavoa1/build/flutter_tts/intermediates/merged_res/release

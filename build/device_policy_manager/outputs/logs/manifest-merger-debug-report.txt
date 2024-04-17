@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml:1:1-113
+INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml:1:1-113
+INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml:1:1-113
+	package
+		ADDED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml:1:70-101
+		INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/hinvi/.pub-cache/hosted/pub.dev/device_policy_manager-0.0.1/android/src/main/AndroidManifest.xml

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_color_highlight_material.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_tint_switch_track.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_tint_default.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_tint_spinner.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "device.policy.manager.device_policy_manager-merged_res-15:/color-v23/abc_tint_edittext.xml",
+        "source": "device.policy.manager.device_policy_manager-appcompat-1.3.1-1:/color-v23/abc_tint_edittext.xml"
+    }
+]

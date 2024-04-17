@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.twelve_ampere.request_permission-merged_res-9:/layout/notification_action_tombstone.xml",
+        "source": "com.twelve_ampere.request_permission-core-1.6.0-3:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.twelve_ampere.request_permission-merged_res-9:/layout/notification_template_part_time.xml",
+        "source": "com.twelve_ampere.request_permission-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.twelve_ampere.request_permission-merged_res-9:/layout/notification_template_part_chronometer.xml",
+        "source": "com.twelve_ampere.request_permission-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.twelve_ampere.request_permission-merged_res-9:/layout/custom_dialog.xml",
+        "source": "com.twelve_ampere.request_permission-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.twelve_ampere.request_permission-merged_res-9:/layout/notification_template_icon_group.xml",
+        "source": "com.twelve_ampere.request_permission-core-1.6.0-3:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.twelve_ampere.request_permission-merged_res-9:/layout/notification_action.xml",
+        "source": "com.twelve_ampere.request_permission-core-1.6.0-3:/layout/notification_action.xml"
+    }
+]

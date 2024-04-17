@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.alikavoa.andel.app-mergeReleaseResources-18:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/hinvi/.gradle/caches/transforms-3/f28c09a52b1954d902e03d3487ea39bb/transformed/core-1.10.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/hinvi/.gradle/caches/transforms-3/428d9b1d04a9d4b258299557b70c4543/transformed/appcompat-1.3.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

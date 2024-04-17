@@ -1,0 +1,2 @@
+int drawable edit_text_background 0x0
+int drawable edit_text_cursor 0x0

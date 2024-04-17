@@ -1,0 +1,11 @@
+com.csdcorp.speech_to_text-jetified-window-1.0.0-beta04-0 /Users/hinvi/.gradle/caches/transforms-3/09fdd70c654231fd35f247d7ce1a6c85/transformed/jetified-window-1.0.0-beta04/res
+com.csdcorp.speech_to_text-jetified-annotation-experimental-1.1.0-1 /Users/hinvi/.gradle/caches/transforms-3/763a16e33bab02a52209ec8e710b80c9/transformed/jetified-annotation-experimental-1.1.0/res
+com.csdcorp.speech_to_text-jetified-window-java-1.0.0-beta04-2 /Users/hinvi/.gradle/caches/transforms-3/f1bf19f202637e353bb46395c2d8738b/transformed/jetified-window-java-1.0.0-beta04/res
+com.csdcorp.speech_to_text-core-1.6.0-3 /Users/hinvi/.gradle/caches/transforms-3/fb4346613e9e583dc5eca39ee7bb1aaf/transformed/core-1.6.0/res
+com.csdcorp.speech_to_text-main-4 /Users/hinvi/.pub-cache/hosted/pub.dev/speech_to_text-6.6.0/android/src/main/res
+com.csdcorp.speech_to_text-release-5 /Users/hinvi/.pub-cache/hosted/pub.dev/speech_to_text-6.6.0/android/src/release/res
+com.csdcorp.speech_to_text-pngs-6 /Users/hinvi/StudioProjects/alikavoa1/build/speech_to_text/generated/res/pngs/release
+com.csdcorp.speech_to_text-resValues-7 /Users/hinvi/StudioProjects/alikavoa1/build/speech_to_text/generated/res/resValues/release
+com.csdcorp.speech_to_text-mergeReleaseResources-8 /Users/hinvi/StudioProjects/alikavoa1/build/speech_to_text/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.csdcorp.speech_to_text-mergeReleaseResources-9 /Users/hinvi/StudioProjects/alikavoa1/build/speech_to_text/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.csdcorp.speech_to_text-merged_res-10 /Users/hinvi/StudioProjects/alikavoa1/build/speech_to_text/intermediates/merged_res/release
