@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:25:5-64:19
-MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-16:19
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-16:19
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:25:5-64:19
+MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-16:19
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-16:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/09fdd70c654231fd35f247d7ce1a6c85/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/09fdd70c654231fd35f247d7ce1a6c85/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/hinvi/.gradle/caches/transforms-3/befd48bfe0fe289d77053aa124c2851e/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
@@ -22,21 +22,21 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hinv
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.10.1] /Users/hinvi/.gradle/caches/transforms-3/f28c09a52b1954d902e03d3487ea39bb/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:1:1-65:12
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:1:1-65:12
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:1:1-65:12
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:1:1-65:12
-MERGED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:1:1-65:12
-MERGED from [:shared_preferences_android] /Users/hinvi/StudioProjects/alikavoa1/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:permission_handler_android] /Users/hinvi/StudioProjects/alikavoa1/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:speech_to_text] /Users/hinvi/StudioProjects/alikavoa1/build/speech_to_text/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:device_policy_manager] /Users/hinvi/StudioProjects/alikavoa1/build/device_policy_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:flutter_tts] /Users/hinvi/StudioProjects/alikavoa1/build/flutter_tts/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:android_intent_plus] /Users/hinvi/StudioProjects/alikavoa1/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-18:12
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:1:1-65:12
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:1:1-65:12
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:1:1-65:12
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:1:1-65:12
+MERGED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:1:1-65:12
+MERGED from [:shared_preferences_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:speech_to_text] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/speech_to_text/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:device_policy_manager] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/device_policy_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_tts] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/flutter_tts/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:android_intent_plus] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-18:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/f1bf19f202637e353bb46395c2d8738b/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/09fdd70c654231fd35f247d7ce1a6c85/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/hinvi/.gradle/caches/transforms-3/befd48bfe0fe289d77053aa124c2851e/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
@@ -67,87 +67,87 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hinvi/.gradle/caches/
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hinvi/.gradle/caches/transforms-3/7e0c675febf4b37fd76fe3a11686ed76/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hinvi/.gradle/caches/transforms-3/51e7dc224b58b1d86857b58535537bf3/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hinvi/.gradle/caches/transforms-3/ac6e15f3b931a32d285fdc7d0e9d585d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:2:5-33
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:2:5-33
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:1:1-65:12
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:1:1-65:12
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:3:5-51
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:1:1-65:12
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:1:1-65:12
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:5:5-71
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:5:5-71
 	android:name
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:5:22-68
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:5:22-68
 uses-permission#android.permission.INTERNET
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:6:5-66
-MERGED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:6:5-66
-MERGED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:7:5-103
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:7:5-103
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
 	android:required
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:7:77-101
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:7:77-101
 	android:name
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:8:5-105
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-81
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-81
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:8:5-105
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-81
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-81
 	android:required
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:8:79-103
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:8:79-103
 	android:name
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:8:22-78
 uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:9:5-104
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:9:5-104
 	tools:node
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:9:83-102
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:9:83-102
 	android:name
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:9:22-82
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:9:22-82
 queries
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:14:5-18:15
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:14:5-18:15
 intent#action:name:android.speech.RecognitionService
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:15:9-17:18
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:15:9-17:18
 action#android.speech.RecognitionService
-ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:16:13-72
+ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:16:13-72
 	android:name
-		ADDED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:16:21-69
+		ADDED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:16:21-69
 uses-sdk
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
-MERGED from [:shared_preferences_android] /Users/hinvi/StudioProjects/alikavoa1/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] /Users/hinvi/StudioProjects/alikavoa1/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler_android] /Users/hinvi/StudioProjects/alikavoa1/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler_android] /Users/hinvi/StudioProjects/alikavoa1/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:speech_to_text] /Users/hinvi/StudioProjects/alikavoa1/build/speech_to_text/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:speech_to_text] /Users/hinvi/StudioProjects/alikavoa1/build/speech_to_text/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:device_policy_manager] /Users/hinvi/StudioProjects/alikavoa1/build/device_policy_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:device_policy_manager] /Users/hinvi/StudioProjects/alikavoa1/build/device_policy_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_tts] /Users/hinvi/StudioProjects/alikavoa1/build/flutter_tts/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_tts] /Users/hinvi/StudioProjects/alikavoa1/build/flutter_tts/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:android_intent_plus] /Users/hinvi/StudioProjects/alikavoa1/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:android_intent_plus] /Users/hinvi/StudioProjects/alikavoa1/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:speech_to_text] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/speech_to_text/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:speech_to_text] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/speech_to_text/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_policy_manager] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/device_policy_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_policy_manager] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/device_policy_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_tts] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/flutter_tts/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_tts] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/flutter_tts/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:android_intent_plus] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:android_intent_plus] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/f1bf19f202637e353bb46395c2d8738b/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/f1bf19f202637e353bb46395c2d8738b/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/09fdd70c654231fd35f247d7ce1a6c85/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
@@ -208,34 +208,34 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hinvi/.gradle/cach
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hinvi/.gradle/caches/transforms-3/51e7dc224b58b1d86857b58535537bf3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hinvi/.gradle/caches/transforms-3/ac6e15f3b931a32d285fdc7d0e9d585d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hinvi/.gradle/caches/transforms-3/ac6e15f3b931a32d285fdc7d0e9d585d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/debug/AndroidManifest.xml
 service#com.baseflow.geolocator.GeolocatorLocationService
-ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:56
+ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:56
 	android:enabled
-		ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-35
+		ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-35
 	android:exported
-		ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+		ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
 	android:foregroundServiceType
-		ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-53
+		ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-53
 	android:name
-		ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-77
+		ADDED from [:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-77
 service#com.lyokone.location.FlutterLocationService
-ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-15:56
+ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-15:56
 	android:enabled
-		ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-35
+		ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-35
 	android:exported
-		ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
+		ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
 	android:foregroundServiceType
-		ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-53
+		ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-53
 	android:name
-		ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+		ADDED from [:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/09fdd70c654231fd35f247d7ce1a6c85/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required

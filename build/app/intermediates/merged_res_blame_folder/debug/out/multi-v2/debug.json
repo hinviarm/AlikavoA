@@ -3791,7 +3791,7 @@
             "outputFile": "com.alikavoa.andel.app-merged_res-20:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -4198,6 +4198,25 @@
                     }
                 },
                 {
+                    "source": "/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "1428,1432",
+                        "startColumns": "4,4",
+                        "startOffsets": "92703,92884",
+                        "endLines": "1431,1434",
+                        "endColumns": "12,12",
+                        "endOffsets": "92879,93048"
+                    }
+                },
+                {
                     "source": "/Users/hinvi/.gradle/caches/transforms-3/c663213a61432829db50424813f438b6/transformed/jetified-play-services-basement-18.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -4231,25 +4250,6 @@
                         "endLines": "2001,2007,2017,3015,3019",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "130917,131095,131379,164088,164215"
-                    }
-                },
-                {
-                    "source": "/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "1428,1432",
-                        "startColumns": "4,4",
-                        "startOffsets": "92703,92884",
-                        "endLines": "1431,1434",
-                        "endColumns": "12,12",
-                        "endOffsets": "92879,93048"
                     }
                 },
                 {

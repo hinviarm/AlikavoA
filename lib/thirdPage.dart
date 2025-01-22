@@ -342,7 +342,7 @@ class _MyThirdPageState extends State<MyThirdPage> {
 
   bool alertvalidation(String valid) {
     RegExp exp = RegExp(
-        r"(^[a-zA-Z0-9áàâäãåçéèêëíìîïñóòôöõúùûüýÿæœÁÀÂÄÃÅÇÉÈÊËÍÌÎÏÑÓÒÔÖÕÚÙÛÜÝŸÆŒ]+[._-]?\s?)+$");
+        r"^([a-zA-Z0-9áàâäãåçéèêëíìîïñóòôöõúùûüýÿæœÁÀÂÄÃÅÇÉÈÊËÍÌÎÏÑÓÒÔÖÕÚÙÛÜÝŸÆŒ]+[._-]?\s?)+$");
     debugPrint("Variable booléen ---------------- "+valid + "--- bool ---"+exp.hasMatch(valid).toString());
     if (valid.isEmpty || !exp.hasMatch(valid)) {
       Alert(

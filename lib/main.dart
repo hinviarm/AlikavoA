@@ -16,6 +16,7 @@ import 'dart:io' as io show Platform;
 import 'dart:async';
 import 'dart:convert' as convert;
 
+import 'apropos.dart';
 import 'secondPage.dart';
 import 'thirdPage.dart';
 import 'fourthPage.dart';
@@ -136,6 +137,7 @@ class _MyScreen extends State<Screen> {
           MyThirdPage(),
           MyHomePage(),
           MySecondPage(),
+          Apropos(),
         ],
       ),
       bottomNavigationBar: new Theme(
@@ -167,6 +169,10 @@ class _MyScreen extends State<Screen> {
             BottomNavigationBarItem(
               icon: Icon(Icons.add_road),
               label: 'Ajout Embouteillage',
+            ),
+            BottomNavigationBarItem(
+              icon: Icon(Icons.info),
+              label: 'A Propos',
             ),
           ],
         ),

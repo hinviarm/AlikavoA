@@ -103,7 +103,7 @@ class _MySecondPageState extends State<MySecondPage> {
 
   bool alertvalidation(String valid) {
     RegExp exp = RegExp(
-        r"(^[a-zA-Z0-9áàâäãåçéèêëíìîïñóòôöõúùûüýÿæœÁÀÂÄÃÅÇÉÈÊËÍÌÎÏÑÓÒÔÖÕÚÙÛÜÝŸÆŒ]+[._-]?\s?)+$");
+        r"^([a-zA-Z0-9áàâäãåçéèêëíìîïñóòôöõúùûüýÿæœÁÀÂÄÃÅÇÉÈÊËÍÌÎÏÑÓÒÔÖÕÚÙÛÜÝŸÆŒ]+[._-]?\s?)+$");
     if (valid.isEmpty || !exp.hasMatch(valid)) {
       Alert(
         context: context,

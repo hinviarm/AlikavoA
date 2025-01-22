@@ -1,53 +1,53 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.alikavoa.andel"
-4    android:versionCode="1"
-5    android:versionName="1.0.0" >
+4    android:versionCode="5"
+5    android:versionName="2.0.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
+8-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="34" />
-9-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml
+9-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml
 10    <!-- 1. Permission -->
 11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-11-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:5:5-71
-11-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:5:22-68
+11-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:5:5-71
+11-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:5:22-68
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:6:5-66
-12-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:6:22-64
+12-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:6:5-66
+12-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:6:22-64
 13    <uses-permission
-13-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:7:5-103
+13-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:7:5-103
 14        android:name="android.permission.ACCESS_FINE_LOCATION"
-14-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:7:22-76
+14-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:7:22-76
 15        android:required="false" />
-15-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:7:77-101
+15-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:7:77-101
 16    <uses-permission
-16-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:8:5-105
+16-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:8:5-105
 17        android:name="android.permission.ACCESS_COARSE_LOCATION"
-17-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:8:22-78
+17-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:8:22-78
 18        android:required="false" />
-18-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:8:79-103
+18-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:8:79-103
 19    <!-- uses-permission android:name="android.permission.FOREGROUND_SERVICE" / -->
 20    <!-- uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/ -->
 21    <!-- uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" / -->
 22    <!-- 2. To overcome bind to recognition service failed issue -->
 23    <queries>
-23-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:14:5-18:15
+23-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:14:5-18:15
 24        <intent>
-24-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:15:9-17:18
+24-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:15:9-17:18
 25            <action android:name="android.speech.RecognitionService" />
-25-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:16:13-72
-25-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:16:21-69
+25-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:16:13-72
+25-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:16:21-69
 26        </intent>
 27    </queries>
 28    <queries>
-28-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:14:5-18:15
+28-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:14:5-18:15
 29        <intent>
-29-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:20:9-22:18
+29-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:20:9-22:18
 30            <action android:name="android.intent.action.TTS_SERVICE" />
-30-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:21:13-72
-30-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:21:21-69
+30-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:21:13-72
+30-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:21:21-69
 31        </intent>
 32    </queries>
 33
@@ -64,29 +64,29 @@
 39
 40    <application
 41        android:name="android.app.Application"
-41-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:28:9-42
+41-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:28:9-42
 42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 42-->[androidx.core:core:1.10.1] /Users/hinvi/.gradle/caches/transforms-3/f28c09a52b1954d902e03d3487ea39bb/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
 43        android:icon="@mipmap/launcher_icon"
-43-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:29:9-45
+43-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:29:9-45
 44        android:label="alikavoa1" >
-44-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:26:9-34
+44-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:26:9-34
 45        <activity
-45-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:30:9-50:20
+45-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:30:9-50:20
 46            android:name="com.alikavoa.andel.MainActivity"
-46-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:31:13-41
+46-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:31:13-41
 47            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-47-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:35:13-163
+47-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:35:13-163
 48            android:exported="true"
-48-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:32:13-36
+48-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:32:13-36
 49            android:hardwareAccelerated="true"
-49-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:36:13-47
+49-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:36:13-47
 50            android:launchMode="singleTop"
-50-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:33:13-43
+50-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:33:13-43
 51            android:theme="@style/LaunchTheme"
-51-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:34:13-47
+51-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:34:13-47
 52            android:windowSoftInputMode="adjustResize" >
-52-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:37:13-55
+52-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:37:13-55
 53
 54            <!--
 55                 Specifies an Android theme to apply to this Activity as soon as
@@ -95,21 +95,21 @@
 58                 to determine the Window background behind the Flutter UI.
 59            -->
 60            <meta-data
-60-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:42:13-45:17
+60-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:42:13-45:17
 61                android:name="io.flutter.embedding.android.NormalTheme"
-61-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:43:15-70
+61-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:43:15-70
 62                android:resource="@style/NormalTheme" />
-62-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:44:15-52
+62-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:44:15-52
 63
 64            <intent-filter>
-64-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:46:13-49:29
+64-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:46:13-49:29
 65                <action android:name="android.intent.action.MAIN" />
-65-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:47:17-68
-65-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:47:25-66
+65-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:47:17-68
+65-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:47:25-66
 66
 67                <category android:name="android.intent.category.LAUNCHER" />
-67-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:48:17-76
-67-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:48:27-74
+67-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:48:17-76
+67-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:48:27-74
 68            </intent-filter>
 69        </activity>
 70        <!-- Add this -->
@@ -127,32 +127,32 @@
 82             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 83        -->
 84        <meta-data
-84-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:61:9-63:33
+84-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:61:9-63:33
 85            android:name="flutterEmbedding"
-85-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:62:13-44
+85-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:62:13-44
 86            android:value="2" />
-86-->/Users/hinvi/StudioProjects/alikavoa1/android/app/src/main/AndroidManifest.xml:63:13-30
+86-->/Users/hinvi/StudioProjects/alikavoa1/AlikavoA/android/app/src/main/AndroidManifest.xml:63:13-30
 87
 88        <service
-88-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-12:56
+88-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-12:56
 89            android:name="com.baseflow.geolocator.GeolocatorLocationService"
-89-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-77
+89-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-77
 90            android:enabled="true"
-90-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-35
+90-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-35
 91            android:exported="false"
-91-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
+91-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
 92            android:foregroundServiceType="location" />
-92-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-53
+92-->[:geolocator_android] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-53
 93        <service
-93-->[:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-15:56
+93-->[:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-15:56
 94            android:name="com.lyokone.location.FlutterLocationService"
-94-->[:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-71
+94-->[:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-71
 95            android:enabled="true"
-95-->[:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-35
+95-->[:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-35
 96            android:exported="false"
-96-->[:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-37
+96-->[:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-37
 97            android:foregroundServiceType="location" />
-97-->[:location] /Users/hinvi/StudioProjects/alikavoa1/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-53
+97-->[:location] /Users/hinvi/StudioProjects/alikavoa1/AlikavoA/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-53
 98
 99        <uses-library
 99-->[androidx.window:window:1.0.0-beta04] /Users/hinvi/.gradle/caches/transforms-3/09fdd70c654231fd35f247d7ce1a6c85/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
